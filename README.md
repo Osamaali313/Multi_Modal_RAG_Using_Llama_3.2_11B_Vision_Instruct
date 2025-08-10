@@ -137,7 +137,6 @@ print(result)
 
 ## 🎯 Use Cases & Applications
 
-<div align="center">
 
 | 🏢 Industry | 📋 Use Case | ✨ Benefits |
 |------------|-------------|------------|
@@ -152,7 +151,6 @@ print(result)
 
 ## 📊 Performance Metrics
 
-<div align="center">
 
 | Metric | Score | Benchmark | Improvement |
 |--------|-------|-----------|-------------|
@@ -346,3 +344,4 @@ If you use this project in your research, please cite it as:
 *Revolutionizing AI with Multi-Modal Understanding* 🚀
 
 </div>
+
